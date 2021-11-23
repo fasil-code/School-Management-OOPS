@@ -1,0 +1,9 @@
+Marks out of 100:
+Maths : 97
+Science: 90
+Urdu :70
+SSt :92
+English :60
+Total marks are :435/500.
+Status :Passed.
+
